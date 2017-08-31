@@ -8,7 +8,7 @@
  *
  * @partially-generated SignedSource<<24bb59705c987ac2dc7d9d322466322d>>
  */
-use FredEmmott\TypeAssert\TypeAssert;
+use Facebook\TypeAssert\TypeAssert;
 
 final class DormUser {
 
